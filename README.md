@@ -1,1 +1,1 @@
-# first read me created by me--it's not comment it the code i wrote
+first read me created by me--it's not comment it's the code i wrote
